@@ -1,5 +1,6 @@
 {
-  "name": "yes",
+  "name": "hexlet-hello-world",
+  "type": "module",  
   "version": "1.0.0",
   "description": "\"\",",
   "main": "index.js",
